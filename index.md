@@ -42,7 +42,7 @@ Behavioral operations, Nonprofit operations, Charitable donations, Sustainable o
 
 ### Publications
 
-- *Competition in Optimal Stopping: Behavioral Insights*, with I. Rios  Forthcoming at _Manufacturing & Service Operations Management_  
+- *Competition in Optimal Stopping: Behavioral Insights*, with I. Rios. Forthcoming at _Manufacturing & Service Operations Management_  
    - First Place, Best Working Paper – Behavioral Operations, 2023
 
 ---
