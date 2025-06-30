@@ -1,17 +1,14 @@
 <img src="./Pramit.jpeg" alt="Profile photo" width="180" style="margin-bottom: 1em;">
 
-# Pramit Ghosh
-
 Ph.D. Candidate in Operations Management  
 University of Texas at Dallas  
 800 W Campbell Road, Richardson, TX, 75080  
-[pramit.ghosh@utdallas.edu](mailto:pramit.ghosh@utdallas.edu)
+Email: [pramit.ghosh@utdallas.edu](mailto:pramit.ghosh@utdallas.edu)
 
 [Download CV (PDF)](./CV_Pramit (2).pdf)
 
 <p align="center">
   <a href="https://linkedin.com/in/pramit-ghosh-a4b5a410b/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/PramitGhosh2" target="_blank">GitHub</a> •
   <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank">Google Scholar</a>
 </p>
 
