@@ -1,7 +1,7 @@
 <img src="./Pramit.jpeg" alt="Profile photo" width="180" style="margin-bottom: 1em;">
 
 Ph.D. Candidate in Operations Management  
-University of Texas at Dallas  
+Jindal School of Management, University of Texas at Dallas  
 800 W Campbell Road, Richardson, TX, 75080  
 Email: [pramit.ghosh@utdallas.edu](mailto:pramit.ghosh@utdallas.edu)
 
@@ -42,7 +42,7 @@ Behavioral operations, Nonprofit operations, Charitable donations, Sustainable o
 
 ### Publications
 
-- *Competition in Optimal Stopping: Behavioral Insights*, with I. Rios  _Manufacturing & Service Operations Management_  
+- *Competition in Optimal Stopping: Behavioral Insights*, with I. Rios  Forthcoming at _Manufacturing & Service Operations Management_  
    - First Place, Best Working Paper – Behavioral Operations, 2023
 
 ---
