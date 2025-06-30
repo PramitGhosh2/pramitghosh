@@ -2,16 +2,3 @@ title: "Pramit Ghosh"
 description: "Ph.D. Student in Operations Management"
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-
-# Optional: author profile
-author:
-  name   : "Pramit Ghosh"
-  avatar : "/assets/images/Pramit.jpeg" # you can upload your photo here
-  bio    : "Ph.D. Candidate in Operations Management"
-
-# Collections
-collections:
-  posts:
-    output: true
-  pages:
-    output: true
