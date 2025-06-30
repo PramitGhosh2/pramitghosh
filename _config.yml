@@ -1,4 +1,3 @@
 title: "Pramit Ghosh"
 description: "Ph.D. Student in Operations Management"
-
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: mmistakes/minimal-mistakes@4.24.0
