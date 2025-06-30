@@ -42,8 +42,7 @@ Behavioral operations, Nonprofit operations, Charitable donations, Sustainable o
 
 ### Publications
 
-- *Competition in Optimal Stopping: Behavioral Insights*, with I. Rios  
-  _Manufacturing & Service Operations Management_  
+- *Competition in Optimal Stopping: Behavioral Insights*, with I. Rios  _Manufacturing & Service Operations Management_  
    - First Place, Best Working Paper – Behavioral Operations, 2023
 
 ---
@@ -54,6 +53,7 @@ Behavioral operations, Nonprofit operations, Charitable donations, Sustainable o
   - POMS, Atlanta, GA – May 2025  
   - INFORMS, Seattle, WA – Oct 2024  
   - INFORMS, Phoenix, AZ – Oct 2023
+
 
 - *Competition in Optimal Stopping: Behavioral Insights*  
   - INFORMS, Phoenix, AZ – Oct 2023
